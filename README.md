@@ -123,4 +123,5 @@ Redis Cluster → RabbitMQ Cluster
 - Волхонский А.Н.  
 - Тюгашев А.А.  
 
+[OpenAPI 3.0.3](https://spec.openapis.org/oas/v3.0.3)
 **Самарский государственный технический университет, 2025**
